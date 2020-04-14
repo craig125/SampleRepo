@@ -1,7 +1,7 @@
 # SampleRepo
 My first repo
 
-##Title
+## Title
 My first commit
 
 
